@@ -7,3 +7,5 @@ Association rule mining is used for generating rules resembling if-else conditio
 In this paticular example in which I have applied association rule mining,
 
 ![](https://github.com/TanviPareek/Association-rule-mining/blob/master/uploads/assoc.png)
+
+The final set of features were generated after extensive exploratory data analysis and feature engineering.
